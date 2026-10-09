@@ -1,0 +1,7 @@
+requests==2.32.3
+beautifulsoup4==4.12.3
+# portrait pipeline (local only)
+pillow
+numpy
+opencv-python-headless
+rembg[cpu]
