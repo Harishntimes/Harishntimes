@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td valign="top" width="370"><img src="./ascii-portrait.svg" width="370" alt="ASCII portrait of Harish" /></td>
-    <td valign="top" width="490"><img src="./info-card.svg" width="490" alt="Harish · AI engineer at ntimes.ai · RAG, voice and video AI" /></td>
+    <td valign="top" width="490"><img src="./info-card.svg" width="490" alt="Harish · Team Lead - AI engineer at ntimes.ai · RAG, voice and video AI" /></td>
   </tr>
 </table>
 
